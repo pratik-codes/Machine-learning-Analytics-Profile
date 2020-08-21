@@ -8,6 +8,9 @@ This repositry contains all my Machine Learning / Analytics projects this helps 
 ## [Cement Strength Prediction](https://github.com/pratiktiwari1212/cement_strength_prediction)
 - build an regression model pipeline to predict the concrete compressive strength based on the different features in the training data. Also created an portal for the client to use and predict on the basis of new data
 
+## [Predicting Employees under Stress](https://github.com/pratiktiwari1212/Predicting-Employees-under-Stress-)
+- A company, ABC Corporation with around 20k employees is quite vigilant about the employee's mental state and hence wants to identify any such employees who might be under work-stress pre-emptively, so that appropriate remedial measures can be taken for them.
+
 ## [Product Review Scrapper](https://github.com/pratiktiwari1212/Product_Review_scrapper)
 - So I created and deployed an end-to-end web scrapper which scraps product reviews from a Flipkart. I have reduced the amount of review and just included flipkart for the reviews so the i can reduced the time taken by the scrapper and this will get you the idea of the project
 - Scrapper URL [here](https://productreviewscrapper.herokuapp.com/)
