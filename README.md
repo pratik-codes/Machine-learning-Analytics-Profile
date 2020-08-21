@@ -10,6 +10,7 @@ This repositry contains all my Machine Learning / Analytics projects this helps 
 
 ## [Predicting Employees under Stress](https://github.com/pratiktiwari1212/Predicting-Employees-under-Stress-)
 - A company, ABC Corporation with around 20k employees is quite vigilant about the employee's mental state and hence wants to identify any such employees who might be under work-stress pre-emptively, so that appropriate remedial measures can be taken for them.
+- Hence Created a model which predicts if a person is stressed or not with 90+ accuracy using XGBoost
 
 ## [Product Review Scrapper](https://github.com/pratiktiwari1212/Product_Review_scrapper)
 - So I created and deployed an end-to-end web scrapper which scraps product reviews from a Flipkart. I have reduced the amount of review and just included flipkart for the reviews so the i can reduced the time taken by the scrapper and this will get you the idea of the project
